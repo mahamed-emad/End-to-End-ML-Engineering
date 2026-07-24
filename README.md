@@ -11,8 +11,7 @@ This repository documents the complete journey from building Machine Learning mo
 ## Repository Structure
 
 ```text
-00-Json-and-Yaml/
-00-Libraries/
+00-Libraries-Json-Yaml/
 01-Software-Engineering/
 02-Concurrency-Parallel-Programming/
 03-Backend/
@@ -26,10 +25,7 @@ README.md
 ## Learning Volumes
 
 ### Volume 0
-- Json & Yaml
-
-### Volume 0
-- Libraries
+- Libraries & Json & Yaml
 
 ### Volume 1
 - Software Engineering for ML Engineers
